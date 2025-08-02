@@ -1,3 +1,45 @@
+Hi there, I'm Mohamed Aslam I 👋
+<a href="https://www.google.com/search?q=https://linkedin.com/in/mohamed-aslam-i" target="_blank" rel="noopener noreferrer"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-%25230077B5.svg%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"></a>
+<a href="mailto:aslamachu8558@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"></a>
+
+👨‍💻 About Me
+I'm an aspiring AI and Data Science Undergraduate with a passion for building practical solutions. I have hands-on experience in machine learning, Generative AI, and front-end development. I enjoy tackling complex problems and have developed projects like an Indian Sign Language translator, a stock volatility predictor, and a legal document analyzer. I thrive in collaborative environments and have honed my skills through various hackathons and internships.
+
+🚀 Tech Stack
+Here are a few technologies I've been working with recently:
+
+Languages: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+Frontend & Web: ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+
+AI, Machine Learning & Data Science: ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+Tools & Platforms: ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+📊 GitHub Stats
+Here are some stats about my activity on GitHub.
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Daslam-03%26theme%3Dtokyonight%26hide_border%3Dtrue%26include_all_commits%3Dfalse%26count_private%3Dfalse" alt="GitHub Stats" />
+<br/>
+<img src="https://www.google.com/search?q=https://nirzak-streak-stats.vercel.app/%3Fuser%3Daslam-03%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="GitHub Streak" />
+<br/>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Daslam-03%26theme%3Dtokyonight%26hide_border%3Dtrue%26include_all_commits%3Dfalse%26count_private%3Dfalse%26layout%3Dcompact" alt="Top Languages" />
+</p>
+
+🏆 Top Contributed Repositories
+My top contributions on GitHub.
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-contributor-stats.vercel.app/api%3Fusername%3Daslam-03%26limit%3D5%26theme%3Dtokyonight%26combine_all_yearly_contributions%3Dtrue" alt="Top Contributed Repo" />
+</p>
+
+✍️ Random Dev Quote
+<p align="center">
+<img src="https://www.google.com/search?q=https://visitcount.itsvg.in/api%3Fid%3Daslam-03%26icon%3D2%26color%3D1" alt="Visitor Count"/>
+</p>
+
+
 # Hi! I'm Mohamed Aslam I
  Aspiring AI and Data Science Undergraduate with hands-on experience in machine learning, Generative AI, Frontend
  and Python based projects. Developed practical solutions including an Indian Sign Language translator, Stock volatility
