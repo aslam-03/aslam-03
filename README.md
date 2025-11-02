@@ -1,8 +1,5 @@
 # Hi! I'm Mohamed Aslam I
-Aspiring AI and Data Science Undergraduate with hands-on experience in machine learning, Generative AI, Frontend
-and Python based projects. Developed practical solutions including an Indian Sign Language translator, Stock volatility
-predictor, legal document analyzer. Demonstrates strong problem-solving, collaboration, and time management skills
-through hackathons and internships <br>
+An Aspiring AI & Data Science Engineer passionate about building intelligent systems that blend Machine Learning, Generative AI, and Full-Stack Development to solve real-world challenges.I’m driven by curiosity, creativity, and a constant urge to learn. Whether it's experimenting with new AI models, optimizing backend systems, or crafting smooth user experiences, I strive to deliver impactful and efficient solutions. <br>
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohamed-aslam-i) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aslamachu8558@gmail.com) 
