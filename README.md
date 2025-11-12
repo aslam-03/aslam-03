@@ -69,17 +69,27 @@
   <table>
     <tr>
       <td align="center" width="200">
-        <img href="https://www.credly.com/badges/a1eb6bdf-82cf-49e7-93ec-f9955197b8aa/linked_in_profile" src="Assets/aws_cloud-foundations.png" width="130"><br>AWS Cloud Foundations
+        <a href="https://www.credly.com/badges/a1eb6bdf-82cf-49e7-93ec-f9955197b8aa/linked_in_profile" target="_blank">
+          <img src="Assets/aws_cloud-foundations.png" width="130" alt="AWS Cloud Foundations" />
+        </a>
+        <br>AWS Cloud Foundations
       </td>
       <td align="center" width="200">
-        <img href="https://www.credly.com/badges/28dd7dec-9788-4532-908c-6a1a9e913fe1/linked_in_profile" src="Assets/aws-generative-ai-foundations.png" width="130"><br>AWS Generative AI Foundations
+        <a href="https://www.credly.com/badges/28dd7dec-9788-4532-908c-6a1a9e913fe1/linked_in_profile" target="_blank">
+          <img src="Assets/aws-generative-ai-foundations.png" width="130" alt="AWS Generative AI Foundations" />
+        </a>
+        <br>AWS Generative AI Foundations
       </td>
       <td align="center" width="200">
-        <img href="https://www.credly.com/badges/ddc9ed5b-9697-4dcb-9f9d-55e91d5f26d3/linked_in_profile" src="Assets/prompt-design-in-vertex-ai.png" width="130"><br>Prompt Design in Vertex AI
+        <a href="https://www.credly.com/badges/ddc9ed5b-9697-4dcb-9f9d-55e91d5f26d3/linked_in_profile" target="_blank">
+          <img src="Assets/prompt-design-in-vertex-ai.png" width="130" alt="Prompt Design in Vertex AI" />
+        </a>
+        <br>Prompt Design in Vertex AI
       </td>
     </tr>
   </table>
 </div>
+
 
 ---
 
