@@ -1,42 +1,137 @@
-# Hi! I'm Mohamed Aslam I
-An Aspiring AI & Data Science Engineer passionate about building intelligent systems that blend Machine Learning, Generative AI, and Full-Stack Development to solve real-world challenges.I’m driven by curiosity, creativity, and a constant urge to learn. Whether it's experimenting with new AI models, optimizing backend systems, or crafting smooth user experiences, I strive to deliver impactful and efficient solutions. <br>
+<!-- Header -->
+<div align="center">
+  <img src="Assets/Aslam_Banner.png" alt="Mohamed Aslam Banner" style="border-radius: 12px;" />
+</div>
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohamed-aslam-i) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aslamachu8558@gmail.com) 
+<h1 align="center">Hey there! I'm <span style="color:#00BFA6;">Mohamed Aslam I</span> </h1>
 
-# Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aslam-03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aslam-03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aslam-03&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+   <b>AI & Full-Stack Developer</b> |  <b>Generative AI & ML Enthusiast</b> |  <b>Innovator at SNS College of Engineering</b><br>
+  Passionate about building <b>intelligent, scalable, and human-centered systems</b> that bridge technology and creativity.<br>
+  I enjoy working on projects that blend <b>AI, LLMs, and Web Technologies</b> — transforming bold ideas into working prototypes.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aslam-03&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Social Badges -->
+<!-- Social Badges -->
+<div align="center">
+  <a href="https://linkedin.com/in/mohamed-aslam-i" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:mohamed.aslam.i.2004@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://aslam-03.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://mohamedaslam.tech" target="_blank">
+    <img src="https://img.shields.io/badge/mohamedaslam.tech-00BFA6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/mohamed_aslam._.03?igsh=ZmZvdXZlODQzYzdh" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
 
 
+---
 
+<h2 align="center" style="color:#00BFA6;"> Tech Stack</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"><br>Python</td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"><br>JavaScript</td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"><br>React</td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"><br>FastAPI</td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"><br>Flask</td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"><br>Tailwind</td>
+</tr>
+
+<tr>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"><br>TensorFlow</td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"><br>PyTorch</td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45"><br>Scikit-Learn</td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"><br>Docker</td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"><br>Git</td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"><br>GitHub</td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"><br>MongoDB</td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"><br>MySQL</td>
+</tr>
+
+<tr>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"><br>VS Code</td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="45"><br>Vercel</td>
+<td align="center" width="100"><img src="https://cdn.simpleicons.org/huggingface/FCC624" width="45"><br>Hugging Face</td>
+<td align="center" width="100"><img src="https://cdn.simpleicons.org/n8n/EA4E62" width="45"><br>n8n</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center" style="color:#00BFA6;"> Certifications</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <img src="Assets/aws_cloud-foundations.png" width="130"><br>AWS Cloud Foundations
+      </td>
+      <td align="center" width="200">
+        <img src="Assets/aws-generative-ai-foundations.png" width="130"><br>AWS Generative AI Foundations
+      </td>
+      <td align="center" width="200">
+        <img src="Assets/prompt-design-in-vertex-ai.png" width="130"><br>Prompt Design in Vertex AI
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<h2 align="center" style="color:#00BFA6;"> GitHub Statistics</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aslam-03&show_icons=true&theme=transparent&title_color=00BFA6&icon_color=00BFA6&text_color=808080&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=aslam-03&theme=transparent&hide_border=true&ring=00BFA6&fire=00BFA6&currStreakLabel=808080&sideLabels=808080&dates=808080&currStreakNum=00BFA6&sideNums=00BFA6" height="160" />
+</div>
+
+---
+
+<h2 align="center" style="color:#00BFA6;"> Activity</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aslam-03&theme=github-compact&color=808080&line=00BFA6&point=00BFA6&area=true&hide_border=true" />
+</div>
+
+---
+
+<h2 align="center" style="color:#00BFA6;"> Quote of the Day</h2>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+---
+
+<h2 align="center" style="color:#00BFA6;"> Support My Work</h2>
+
+<div align="center">
+  <a href="https://buymeacoffee.com/aslam03" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=aslam-03&label=Profile%20Views&color=00BFA6&icon=5&pretty=true" />
+</div>
+
+---
+
+<h3 align="center"> "Transforming ideas into intelligent experiences, one model at a time." </h3>
