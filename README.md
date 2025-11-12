@@ -87,7 +87,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aslam-03&show_icons=true&theme=transparent&title_color=00BFA6&icon_color=00BFA6&text_color=808080&hide_border=true" height="160" />
-  <img src="https://streak-stats.demolab.com/?user=aslam-03&theme=transparent&hide_border=true&ring=00BFA6&fire=00BFA6&currStreakLabel=00BFA6&sideLabels=808080&dates=808080&currStreakNum=00BFA6&sideNums=00BFA6" height="160" />
+  <img src="https://streak-stats.demolab.com?user=aslam-03&theme=transparent&hide_border=true&ring=00BFA6&fire=00BFA6&currStreakLabel=808080&sideLabels=808080&dates=808080&currStreakNum=00BFA6&sideNums=00BFA6" height="160" />
+
 </div>
 
 ---
