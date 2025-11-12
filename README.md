@@ -95,9 +95,9 @@
     alt="GitHub Stats for aslam-03" />
   &nbsp;&nbsp;
   <img
-    src="https://streak-stats.demolab.com/?user=aslam-03&theme=transparent&hide_border=true&ring=00BFA6&fire=00BFA6&currStreakLabel=00BFA6&sideLabels=808080&dates=808080&currStreakNum=00BFA6&sideNums=00BFA6"
-    height="160"
-    alt="GitHub Streak Stats for aslam-03" />
+  src="https://github-readme-streak-stats.herokuapp.com/?user=aslam-03&theme=transparent&hide_border=true&ring=00BFA6&fire=00BFA6&currStreakLabel=00BFA6&sideLabels=808080&dates=808080&currStreakNum=00BFA6&sideNums=00BFA6"
+  height="160"
+  alt="GitHub Streak Stats for aslam-03" />
 </div>
 
 
@@ -120,7 +120,7 @@
 ---
 
 <div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr?url=https://github.com/aslam-03&count_bg=%2300bfa6&title=Profile%20Views" alt="Profile Views" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=aslam-03.aslam-03&right_color=00bfa6" alt="Visit Badge" />
 </div>
 
 
