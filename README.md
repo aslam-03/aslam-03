@@ -93,13 +93,12 @@
         src="https://github-readme-stats.vercel.app/api?username=aslam-03&show_icons=true&include_all_commits=true&rank_icon=github&theme=github_dark&hide_border=true"
         alt="GitHub Stats for Aslam" width="100%">
     </td>
+    <td>
+    <!-- Use Vercel streak service (more reliable) and include an alt/fallback URL -->
     <td style="width:50%; padding:0; background:rgba(255,255,255,.02); border:1px solid rgba(255,255,255,.08); border-radius:8px;">
-      <img
-        src="https://streak-stats.demolab.com/?user=aslam-03&theme=github-dark&hide_border=true"
-        alt="GitHub Streak for Aslam" width="100%">
+        <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=aslam-03&theme=radical" />
     </td>
   </tr>
-
 </table>
 
 
