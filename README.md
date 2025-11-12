@@ -86,17 +86,26 @@
 <h2 align="center" style="color:#00BFA6;"> GitHub Statistics</h2>
 
 <table align="center" style="width:100%; border-collapse:separate; border-spacing:12px; background:rgba(255,255,255,.03); border:1px solid rgba(255,255,255,.08); border-radius:12px;">
-  <!-- Row 1: Stats + Streak (two equal columns) -->
   <tr>
+    <!-- Left: GitHub Stats -->
     <td style="width:50%; padding:0; background:rgba(255,255,255,.02); border:1px solid rgba(255,255,255,.08); border-radius:8px;">
       <img
         src="https://github-readme-stats.vercel.app/api?username=aslam-03&show_icons=true&include_all_commits=true&rank_icon=github&theme=github_dark&hide_border=true"
-        alt="GitHub Stats for Aslam" width="100%">
+        alt="GitHub Stats for aslam-03"
+        width="100%" />
     </td>
-    <td>
-    <!-- Use Vercel streak service (more reliable) and include an alt/fallback URL -->
+
+    <!-- Right: Streak (Vercel) with fallback -->
     <td style="width:50%; padding:0; background:rgba(255,255,255,.02); border:1px solid rgba(255,255,255,.08); border-radius:8px;">
-        <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=aslam-03&theme=radical" />
+      <picture>
+        <!-- Primary: Vercel-hosted streak (most reliable) -->
+        <source srcset="https://github-readme-streak-stats.vercel.app?user=aslam-03&theme=github-dark&hide_border=true" />
+        <!-- Fallback: Top langs card (keeps layout intact if streak fails) -->
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslam-03&layout=compact&theme=github_dark&hide_border=true"
+          alt="GitHub Streak (fallback)"
+          width="100%" />
+      </picture>
     </td>
   </tr>
 </table>
