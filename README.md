@@ -85,11 +85,21 @@
 
 <h2 align="center" style="color:#00BFA6;"> GitHub Statistics</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aslam-03&show_icons=true&theme=transparent&title_color=00BFA6&icon_color=00BFA6&text_color=808080&hide_border=true" height="160" />
-  <img src="https://streak-stats.demolab.com?user=aslam-03&theme=transparent&hide_border=true&ring=00BFA6&fire=00BFA6&currStreakLabel=808080&sideLabels=808080&dates=808080&currStreakNum=00BFA6&sideNums=00BFA6" height="160" />
+<!-- GitHub Stats + Streak (aligned, working URLs) -->
+<h2 align="center" style="color:#00BFA6;">📊 GitHub Statistics</h2>
 
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=aslam-03&show_icons=true&theme=transparent&title_color=00BFA6&icon_color=00BFA6&text_color=808080&hide_border=true"
+    height="160"
+    alt="GitHub Stats for aslam-03" />
+  &nbsp;&nbsp;
+  <img
+    src="https://streak-stats.demolab.com/?user=aslam-03&theme=transparent&hide_border=true&ring=00BFA6&fire=00BFA6&currStreakLabel=00BFA6&sideLabels=808080&dates=808080&currStreakNum=00BFA6&sideNums=00BFA6"
+    height="160"
+    alt="GitHub Streak Stats for aslam-03" />
 </div>
+
 
 ---
 
@@ -110,8 +120,9 @@
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=aslam-03&label=Profile%20Views&color=00bfa6&icon=0&pretty=true" alt="Profile Views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr?url=https://github.com/aslam-03&count_bg=%2300bfa6&title=Profile%20Views" alt="Profile Views" />
 </div>
+
 
 ---
 
