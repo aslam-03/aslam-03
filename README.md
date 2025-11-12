@@ -85,23 +85,22 @@
 
 <h2 align="center" style="color:#00BFA6;"> GitHub Statistics</h2>
 
-<table align="center" style="width:100%; border-collapse:separate; border-spacing:12px; background:rgba(255,255,255,.03); border:1px solid rgba(255,255,255,.08); border-radius:12px;">
-  <tr>
-    <!-- Left: GitHub Stats -->
-    <td style="width:50%; padding:0; background:rgba(255,255,255,.02); border:1px solid rgba(255,255,255,.08); border-radius:8px;">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=aslam-03&show_icons=true&include_all_commits=true&rank_icon=github&theme=github_dark&hide_border=true"
-        alt="GitHub Stats for aslam-03"
-        width="100%" />
-    </td>
-    <td style="width:50%; padding:0; background:rgba(255,255,255,.02); border:1px solid rgba(255,255,255,.08); border-radius:8px;">
-      <picture>
-        <!-- Primary: Vercel-hosted streak (most reliable) -->
-        <source srcset="https://github-readme-streak-stats.vercel.app?user=aslam-03&theme=github-dark&hide_border=true" />
-      </picture>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=aslam-03&show_icons=true&theme=tokyonight&title_color=00BFA6&icon_color=00BFA6&text_color=ffffff&hide_border=true" 
+       height="160" 
+       alt="GitHub Stats for aslam-03" />
+  &nbsp;&nbsp;
+
+  <!-- GitHub Streak (WORKING SOURCE) -->
+  <img 
+       src="https://streak-stats-gamma.vercel.app/?user=aslam-03&theme=tokyonight&hide_border=true&ring=00BFA6&fire=00BFA6&currStreakLabel=00BFA6" 
+       height="160" 
+       alt="GitHub Streak for aslam-03" />
+
+</div>
 
 
 ---
