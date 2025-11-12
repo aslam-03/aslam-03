@@ -98,11 +98,6 @@
       <picture>
         <!-- Primary: Vercel-hosted streak (most reliable) -->
         <source srcset="https://github-readme-streak-stats.vercel.app?user=aslam-03&theme=github-dark&hide_border=true" />
-        <!-- Fallback: Top langs card (keeps layout intact if streak fails) -->
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslam-03&layout=compact&theme=github_dark&hide_border=true"
-          alt="GitHub Streak (fallback)"
-          width="100%" />
       </picture>
     </td>
   </tr>
