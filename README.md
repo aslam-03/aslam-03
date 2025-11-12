@@ -94,8 +94,6 @@
         alt="GitHub Stats for aslam-03"
         width="100%" />
     </td>
-
-    <!-- Right: Streak (Vercel) with fallback -->
     <td style="width:50%; padding:0; background:rgba(255,255,255,.02); border:1px solid rgba(255,255,255,.08); border-radius:8px;">
       <picture>
         <!-- Primary: Vercel-hosted streak (most reliable) -->
