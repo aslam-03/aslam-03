@@ -85,22 +85,22 @@
 
 <h2 align="center" style="color:#00BFA6;"> GitHub Statistics</h2>
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
 
-  <!-- GitHub Stats -->
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=aslam-03&show_icons=true&theme=tokyonight&title_color=00BFA6&icon_color=00BFA6&text_color=ffffff&hide_border=true" 
-       height="160" 
-       alt="GitHub Stats for aslam-03" />
-  &nbsp;&nbsp;
+  <!-- GitHub Stats Card -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=aslam-03&show_icons=true&theme=tokyonight&title_color=00BFA6&icon_color=00BFA6&text_color=ffffff&hide_border=true"
+    alt="GitHub Stats for aslam-03"
+    style="width: 48%; min-width: 320px; border-radius: 10px;" />
 
-  <!-- GitHub Streak (WORKING SOURCE) -->
-  <img 
-       src="https://streak-stats-gamma.vercel.app/?user=aslam-03&theme=tokyonight&hide_border=true&ring=00BFA6&fire=00BFA6&currStreakLabel=00BFA6" 
-       height="160" 
-       alt="GitHub Streak for aslam-03" />
+  <!-- GitHub Streak Card -->
+  <img
+    src="https://streak-stats-gamma.vercel.app/?user=aslam-03&theme=tokyonight&hide_border=true&ring=00BFA6&fire=00BFA6&currStreakLabel=00BFA6"
+    alt="GitHub Streak for aslam-03"
+    style="width: 48%; min-width: 320px; border-radius: 10px;" />
 
 </div>
+
 
 
 ---
