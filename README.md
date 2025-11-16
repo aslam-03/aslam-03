@@ -100,18 +100,12 @@
   <table style="width:100%;max-width:1000px;border-collapse:collapse;">
     <tr>
       <!-- left card -->
-       <td style="width:50%; padding:0; background:rgba(255,255,255,.02); border:1px solid rgba(255,255,255,.08); border-radius:8px;">
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=aslam-03&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&title_color=00BFA6&icon_color=00BFA6&text_color=ffffff&hide_border=true"
-          alt="GitHub Stats for aslam-03"
-          width="100%" />
-      </td>
-      <!-- <td style="width:50%;padding:8px;vertical-align:top;">
+      <td style="width:50%;padding:8px;vertical-align:top;">
         <img
           src="https://github-readme-stats.vercel.app/api?username=aslam-03&show_icons=true&theme=tokyonight&title_color=00BFA6&icon_color=00BFA6&text_color=ffffff&hide_border=true"
           alt="GitHub Stats for aslam-03"
           style="display:block;width:100%;max-width:520px;height:160px;border-radius:10px;" />
-      </td> -->
+      </td>
       <!-- right card -->
       <td style="width:50%;padding:8px;vertical-align:top;">
         <img
