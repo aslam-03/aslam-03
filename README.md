@@ -102,7 +102,7 @@
       <!-- left card (Akash-style + tokyonight + cache override) -->
       <td style="width:50%;padding:8px;vertical-align:top;">
         <img
-          src="https://github-readme-stats.vercel.app/api?username=aslam-03&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&title_color=00BFA6&icon_color=00BFA6&text_color=ffffff&hide_border=true&cache_seconds=60"
+          src="https://github-readme-stats.vercel.app/api?username=aslam-03&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&title_color=00BFA6&icon_color=00BFA6&text_color=ffffff&hide_border=true&cache_seconds=60%20%20this%20git%20stats%20url%20not%20fetching%20details%20sovle"
           alt="GitHub Stats for aslam-03"
           style="display:block;width:100%;max-width:520px;height:160px;border-radius:10px;" />
       </td>
