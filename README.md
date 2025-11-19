@@ -5,11 +5,7 @@
 
 <h1 align="center">Hey there! I'm <span style="color:#00BFA6;">Mohamed Aslam I</span> </h1>
 
-<p align="center">
-   <b>AI & Full-Stack Developer</b> |  <b>Generative AI & ML Enthusiast</b> |  <b>Innovator at SNS College of Engineering</b><br>
-  Passionate about building <b>intelligent, scalable, and human-centered systems</b> that bridge technology and creativity.<br>
-  I enjoy working on projects that blend <b>AI, LLMs, and Web Technologies</b> — transforming bold ideas into working prototypes.
-</p>
+
 
 ---
 
