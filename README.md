@@ -32,7 +32,6 @@
   </a>
 </div>
 
-
 ---
 
 <h2 align="center" style="color:#00BFA6;"> Tech Stack</h2>
