@@ -32,6 +32,7 @@
   </a>
 </div>
 
+
 ---
 
 <h2 align="center" style="color:#00BFA6;"> Tech Stack</h2>
@@ -98,14 +99,14 @@
 <div align="center">
   <table style="width:100%;max-width:1000px;border-collapse:collapse;">
     <tr>
-      <!-- left card (Akash-style + tokyonight + cache override) -->
+      <!-- left card -->
       <td style="width:50%;padding:8px;vertical-align:top;">
         <img
-          src="https://github-readme-stats.vercel.app/api?username=aslam-03&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&title_color=00BFA6&icon_color=00BFA6&text_color=ffffff&hide_border=true&cache_seconds=60%20%20this%20git%20stats%20url%20not%20fetching%20details%20sovle"
+          src="https://github-readme-stats.vercel.app/api?username=aslam-03&show_icons=true&theme=tokyonight&title_color=00BFA6&icon_color=00BFA6&text_color=ffffff&hide_border=true"
           alt="GitHub Stats for aslam-03"
           style="display:block;width:100%;max-width:520px;height:160px;border-radius:10px;" />
       </td>
-      <!-- right card (streak) -->
+      <!-- right card -->
       <td style="width:50%;padding:8px;vertical-align:top;">
         <img
           src="https://streak-stats-gamma.vercel.app/?user=aslam-03&theme=tokyonight&hide_border=true&ring=00BFA6&fire=00BFA6&currStreakLabel=00BFA6"
@@ -136,4 +137,4 @@
 ---
 
 
-
+<h3 align="center"> "Transforming ideas into intelligent experiences, one model at a time." </h3>
