@@ -108,7 +108,7 @@
       <!-- right card (streak) -->
       <td style="width:50%;padding:8px;vertical-align:top;">
         <img
-          src="https://streak-stats.demolab.com/?user=aslam-03&theme=tokyonight&hide_border=true&ring=00BFA6&fire=00BFA6&currStreakLabel=00BFA6"
+          src="https://github-readme-streak-stats-eight.vercel.app/?user=aslam-03&theme=tokyonight&hide_border=true&ring=00BFA6&fire=00BFA6&currStreakLabel=00BFA6)](https://git.io/streak-stats"
           alt="GitHub Streak for aslam-03"
           style="display:block;width:100%;max-width:520px;height:160px;border-radius:10px;" />
       </td>
