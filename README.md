@@ -132,6 +132,3 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
----
-
-<h3 align="center"> "Transforming ideas into intelligent experiences, one model at a time." </h3>
