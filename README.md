@@ -132,6 +132,5 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
----
- 
+--- 
 <h2 align="center" style="color:#00BFA6;">“Learning never exhausts the mind — it sharpens it.”</h2>
