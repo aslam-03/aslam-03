@@ -126,7 +126,7 @@
 
 ---
 
-<h2 align="center" style="color:#00BFA6;"> Quote of the Day</h2>
+<h2 align="center" style="color:#00BFA6;">Quote of the Day</h2>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
